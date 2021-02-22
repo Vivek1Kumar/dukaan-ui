@@ -1,0 +1,22 @@
+.footer-bar {
+    background-color: #1a181e;
+    color: #fff;
+    height: 321px;
+    padding-top: 50px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.footer-section {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 202px;
+   
+}
+.footer-img {
+    text-align: center;
+}
+.footer-section .footer-img >img {
+    width: 64px;
+    height: 64px;
+}

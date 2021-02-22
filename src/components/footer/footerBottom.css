@@ -1,0 +1,34 @@
+.footer-main {
+    margin-top: 30px;
+}
+.border-line {
+    margin-top: 30px;
+    opacity: 0.1;
+    color: #fff;
+    margin: 10px 162px;
+}
+.footer-bottom {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #1a181e;
+    color: #fff;
+    width: 100%;
+}
+.footer-bottom .store-det {
+    opacity: 0.6;
+    font-size: 15px;
+    line-height: 1.33;
+    margin-bottom: 7px;
+}
+.supper-market {
+    font-size: 16px;
+}
+.footer-address {
+    opacity: 0.65;
+    font-size: 14px;
+    line-height: 1.33; 
+    padding-top: 4px;
+}
+

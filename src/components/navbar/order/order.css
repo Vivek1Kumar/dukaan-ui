@@ -1,0 +1,86 @@
+.order-temp {
+    width: 368px;
+    height: 148px;
+    margin: 24px 24px 24px 0;
+    padding: 16px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px 0 rgba(26, 24, 30, 0.04);
+    background-color: #ffffff;
+}
+
+.order-card {
+    width: 30%;
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0 2px 6px 0 rgba(26, 24, 30, 0.04);
+}
+
+.order-list {
+    display: flex;
+    justify-content: space-between;
+}
+
+.order-list span{
+    font-weight : 700; 
+}
+
+.new-order {
+    margin-left: 5px;
+    padding: 2px 5px;
+    border-radius: 3px;
+    background-color: green;
+    color: #fff;
+    font-size: 11px;
+    border: none;
+}
+
+.order-card .details {
+    display: flex;
+    position: relative;
+    right: 0px;
+    top: 57%;
+    padding: 4px 8px 4px 12px;
+    border-radius: 4px;
+    border: solid 1px #cccccc;
+    font-weight: normal;
+    background-color: #fff;
+    font-size: 14px;
+    color: #1a181e;
+    cursor: pointer;
+}
+
+.item-ice-creame {
+    display: flex;
+}
+
+.item-ice-creame > div >img {
+    margin-top: 5px;
+}
+
+.item-price {
+    padding: 16px 0px 0px 10px;
+}
+
+.item-price .item-one {
+  color: #808080;
+  font-weight: 500;
+}
+
+.item-price .price {
+    font-family: GalanoGrotesque;
+    font-weight: bold;
+    color: #146eb4;
+}
+
+.item-price > div {
+    padding-bottom: 5px;
+}
+
+.right-arrow-icon {
+    width: 13px;
+    height: 13px;
+    margin-top: 2px;
+    margin-left: 3px;
+}
